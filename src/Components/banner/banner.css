@@ -1,0 +1,92 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.navbar{
+    position: absolute;
+    width: 100%;
+    z-index: 999;
+}
+#heading{
+    background-color: #30344E;
+    margin-top: -100px;
+}
+.heading_main{
+    padding-top: 150px;
+    padding-bottom: 30px;
+    position: relative;
+}
+.heading_text h3{
+    color: white;
+    font-size: 44px;
+    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+}
+.heading_text p{
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Open Sans', sans-serif;
+}
+.heading_text h2{
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'Open Sans', sans-serif;
+    border: 2px solid darkorange;
+    border-radius: 10px;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    transition: 0.5s;
+}
+.heading_text h2:hover{
+    background-color: darkorange;
+}
+.heading_text h6{
+    color: white;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'Open Sans', sans-serif;
+}
+.heading_sing h5{
+    color: blue;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'Open Sans', sans-serif;
+}
+.heading_men a{
+    color: darkgreen;
+}
+.banner_icone i{
+    color: yellow;
+}
+.banner_icone h6{
+    color: white;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 20px;
+}
+.banner_icone i{
+    color: white;
+    margin-left: 30px;
+}
+.heading_ban{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+.heading_man{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+.heading_man img{
+width: 640px;
+height: 550px;
+}
+.heading_ban img{
+    width: 640px;
+}

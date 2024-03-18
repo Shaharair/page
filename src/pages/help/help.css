@@ -1,0 +1,130 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#our{
+    background-color: #F1FBFB;
+}
+.our_main{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.our_text h6{
+    color: #6A55EA;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Open Sans', sans-serif;
+}
+.our_text h3{
+    color: black;
+    font-size: 40px;
+    font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
+}
+.our_icone{
+    margin-top: 20px;
+    background-color: #F8A64C;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 10px;
+}
+.our_icone img{
+    margin-left: 90px;
+    width: 50%;
+}
+.our_icone h6{
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+.our_logo{
+    margin-top: 20px;
+    background-color: #F0EDFF;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 10px;
+}
+.our_logo img{
+    margin-left: 90px;
+    width: 50%;
+}
+.our_logo h6{
+    color: black;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+.our_men{
+    margin-top: 20px;
+    background-color: #E8FCF2;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 10px;
+}
+.our_men img{
+    margin-left: 90px;
+    width: 50%;
+}
+.our_men h6{
+    color: black;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+.our_ban{
+    margin-top: 20px;
+    background-color: #FEF6EC;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 10px;
+}
+.our_ban img{
+    margin-left: 90px;
+}
+.our_ban h6{
+    color: black;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+.our_img img{
+    width: 100%;
+    padding-top: 100px;
+}
+.our_write{
+    padding-top: 90px;
+}
+.our_write h4{
+    color: black;
+    font-size: 42px;
+    font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
+}
+.our_write p{
+    color: #29313D;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Open Sans', sans-serif;
+}
+.our_write h5{
+    color: black;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'Open Sans', sans-serif;
+    border: 2px solid darkorange;
+    border-radius: 10px;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    transition: 0.5s;
+}
+.our_write h5:hover{
+    background-color: darkorange;
+    color: white;
+}

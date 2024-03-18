@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.get_main{
+    padding-top: 128px;
+    padding-bottom: 128px;
+}
+.get_img img{
+    width: 100%;
+}
+.get_text{
+    padding-top: 50px;
+}
+.get_text h6{
+    color: #6A55EA;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Open Sans', sans-serif;
+}
+.get_text h3{
+    color: black;
+    font-size: 40px;
+    font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
+}
+.get_text p{
+    color: #29313D;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Open Sans', sans-serif;
+}

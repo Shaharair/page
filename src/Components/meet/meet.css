@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.for_main{
+    padding-top: 128px;
+    padding-bottom: 128px;
+}
+.banner_one img{
+    width: 100%;
+}
+.for_text h3{
+    color: black;
+    font-size: 40px;
+    font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
+    padding-bottom: 30px;
+}
+.for_text{
+    margin-top: 150px;
+}

@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#free{
+    background-color: #52C5B6;
+}
+.free_text{
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.free_logo{
+    padding-bottom: 100px;
+}
+.free_text h3{
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+}
+.free_text h4{
+    color: white;
+    font-size: 24px;
+    font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
+}
+.free_text h5{
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'Open Sans', sans-serif;
+}
+.free_logo h6{
+    color: black;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'Open Sans', sans-serif;
+    border: 2px solid red;
+    border-radius: 10px;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    transition: 0.5s;
+}
+.free_logo h6:hover{
+    background-color: red;
+    color: white;
+}

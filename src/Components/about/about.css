@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.banner_main{
+   padding-top: 128px;
+   padding-bottom: 128px;
+}
+.banner_text{
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.banner_text h6{
+    color: darkorange;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+}
+.banner_text h3{
+    color: black;
+    font-size: 38px;
+    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+}
+.banner_text p{
+    color: #5B5F77;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Open Sans', sans-serif;
+}
+.banner_text a{
+    color: black;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Open Sans', sans-serif;
+}
+.banner_text h5{
+    color: black;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'Open Sans', sans-serif;
+    width: 200px;
+    height: 50px;
+    border: 2px solid darkorange;
+    border-radius: 10px;
+    text-align: center;
+    line-height: 50px;
+    margin-top: 30px;
+    transition: 0.5s;
+}
+.banner_text h5:hover{
+    background-color: darkorange;
+    color: white;
+}

@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#footer{
+    background-color: #30344E;
+}
+.footer_main{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.footer_logo p{
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Open Sans', sans-serif;
+}
+.footer_logo span{
+    color: white;
+}
+.footer_text h5{
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'Open Sans', sans-serif;
+}
+.footer_text ul li{
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: -30px;
+}
+.footer_get h5{
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'Open Sans', sans-serif;
+}
+.footer_get p{
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Open Sans', sans-serif;
+}
+.footer_get input{
+    border: none;
+    padding: 20px 0;
+    border-radius: 7px;
+}

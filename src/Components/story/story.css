@@ -1,0 +1,71 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.story_main{
+    padding-top: 100px;
+    padding-bottom: 128px;
+}
+.story_img img{
+    width: 100%;
+}
+.story_text h3{
+    color: black;
+    font-size: 38px;
+    font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
+}
+.story_text p{
+    color: #5B5F77;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Open Sans', sans-serif;
+}
+.story_text h6{
+    color: black;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'Open Sans', sans-serif;
+    width: 200px;
+    height: 50px;
+    border: 2px solid darkorange;
+    border-radius: 10px;
+    text-align: center;
+    line-height: 50px;
+    margin-top: 30px;
+    transition: 0.5s;
+}
+.story_text h6:hover{
+    background-color: darkorange;
+    color: white;
+}
+.story_write{
+    margin-top: -170px;
+}
+.story_write h4{
+    color: black;
+    font-size: 25px;
+    font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
+}
+.story_write p{
+    color: #5B5F77;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Open Sans', sans-serif;
+}
+.story_writte{
+    margin-top: -170px;
+}
+.story_writte h4{
+    color: black;
+    font-size: 25px;
+    font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
+}
+.story_writte p{
+    color: #5B5F77;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Open Sans', sans-serif;
+}
